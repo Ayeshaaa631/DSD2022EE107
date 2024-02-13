@@ -1,10 +1,13 @@
 
+module full_adder(
+input logic a, 
+input logic b,  
+input logic c,  
+output logic sum,  
+output logic carry  
+); 
+assign sum = (a ^ b) ^ c; 
+assign carry = (a & b) | (c & (a ^b));  
+endmodule 
 
 
-module lab2(output logic y,
-input logic a,b,c
-);
-wire o;
-and a1(o, a, b);
-or o1(y, o, c);
-endmodule
