@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/AAA DSD LABS/Lab5/segment.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module segment
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/AAA DSD LABS/Lab5/Lab5_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module segment_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/AAA DSD LABS/Lab5_simulation/Lab5_simulation.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
